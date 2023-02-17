@@ -1,0 +1,19 @@
+body {
+  background-color: #2E3440;
+  color: aliceblue; 
+}
+
+.title {
+  padding-top: 75px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 72px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: blueviolet;
+}
+
+.body {
+  text-align: center;
+  font-size: 34px;
+}
