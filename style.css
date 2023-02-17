@@ -1,5 +1,7 @@
 body {
-  background-color: #2E3440;
+  background-image: url('/assets/doodad2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   color: aliceblue; 
 }
 
@@ -38,4 +40,21 @@ body {
   text-decoration: none;
   color: white;
   font-size: 20px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+.abouttitle {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  color: blueviolet;
+  /* offset-x | offset-y | color */
+  
+    text-shadow: 4px 3px rgba(57, 152, 174, 0.177);
+  }
+
+.aboutbody {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
 }
