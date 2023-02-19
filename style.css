@@ -66,10 +66,12 @@ body {
   border: none;
   text-align: center;
   outline: none;
+  padding-top: 50px;
   font-size: 40px;
   font-style: italic;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
+  display: block; margin: 0 auto;
   /*offset-x | offset-y | color */
 
   text-shadow: 4px 3px rgba(57, 152, 174, 0.177);
